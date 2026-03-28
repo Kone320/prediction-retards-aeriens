@@ -11,7 +11,7 @@ Bienvenue dans le dépôt de notre projet de **Data Mining** consacré à l'anal
 
 ---
 
-## 🎯 Problématique et Objectifs
+##  Problématique et Objectifs
 
 Le transport aérien est un secteur où la ponctualité est cruciale. Les retards génèrent des perturbations en cascade, des coûts supplémentaires et l'insatisfaction des passagers.
 
